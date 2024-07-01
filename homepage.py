@@ -16,7 +16,7 @@ right_frame = ctk.CTkFrame(root, fg_color="#333D79", width=500, height=900, corn
 right_frame.pack(side="right")
 
 # Login to your account
-signin_text = ctk.CTkLabel(root, text="Login to Your Account", font=('Lato', 56, "bold"), text_color="#333D79", bg_color="#FAEBEE")
+signin_text = ctk.CTkLabel(root, text="hey testtttttttttt\nthisss is hoemfkjhekjpageee", font=('Lato', 56, "bold"), text_color="#333D79", bg_color="#FAEBEE")
 signin_text.place(x = 250, y= 200)
 
 username_entry = ctk.CTkEntry(root, bg_color="#FAEBEE", fg_color="#C8C0D2", border_color="#C8C0D2", placeholder_text="Username", placeholder_text_color="#746F7A", font=("Lato", 28), width=330, corner_radius=28, text_color="black", height=70 )
